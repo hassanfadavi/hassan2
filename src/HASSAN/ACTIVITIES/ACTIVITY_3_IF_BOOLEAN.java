@@ -1,4 +1,4 @@
-package HASSAN;
+package HASSAN.ACTIVITIES;
 
 public class ACTIVITY_3_IF_BOOLEAN {
     public static void main(String[] args) {

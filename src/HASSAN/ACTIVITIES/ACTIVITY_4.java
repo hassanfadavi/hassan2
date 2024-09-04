@@ -1,4 +1,4 @@
-package HASSAN;
+package HASSAN.ACTIVITIES;
 
 import java.rmi.UnexpectedException;
 import java.util.Scanner;

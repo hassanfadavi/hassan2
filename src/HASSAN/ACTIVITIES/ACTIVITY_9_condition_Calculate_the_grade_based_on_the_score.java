@@ -1,4 +1,4 @@
-package HASSAN;
+package HASSAN.ACTIVITIES;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.Scanner;

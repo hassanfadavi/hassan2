@@ -1,4 +1,4 @@
-package HASSAN;
+package HASSAN.ACTIVITIES;
 
 import java.util.Scanner;
 
